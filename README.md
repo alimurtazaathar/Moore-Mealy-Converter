@@ -25,9 +25,9 @@ The Moore & Mealy Converter is a Python application built using the Tkinter libr
 ### Mealy to Moore Conversion:
 
 1. Enter the number of states and transitions for the Mealy machine and click "Proceed".
-2. Input the outputs for each state and the transition details.
+2. Input the output and transition details for each state.
 3. Click the "Display Mealy" button to visualise Mealy machine.
-4. Click the "Generate Mealy" button to visualise the generated Mealy machine.
+4. Click the "Generate Moore" button to visualise the generated Moore machine.
 
 ### Graphical Visualization:
 
