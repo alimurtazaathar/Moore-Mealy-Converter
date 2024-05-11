@@ -12,7 +12,7 @@ The Moore & Mealy Converter is a Python application built using the Tkinter libr
 
 ### Launching the Application:
 
-1. Run the Python script `moore_mealy_converter.py` to launch the application.
+1. Run the Python script `main.py` to launch the application.
 2. The main menu offers options for Moore to Mealy and Mealy to Moore conversion.
 
 ### Moore to Mealy Conversion:
@@ -31,7 +31,6 @@ The Moore & Mealy Converter is a Python application built using the Tkinter libr
 
 ### Graphical Visualization:
 
-- Both Moore and Mealy machines are visualized using NetworkX and Matplotlib libraries.
 - The graphical representation shows states, transitions, and outputs.
 
 ## Dependencies:
