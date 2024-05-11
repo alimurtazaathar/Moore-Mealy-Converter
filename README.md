@@ -1,6 +1,6 @@
 # Moore & Mealy Converter
 
-The Moore & Mealy Converter is a Python application built using the Tkinter library for creating graphical user interfaces (GUIs). This application allows users to visualise and convert between Moore and Mealy finite state machines.
+The Moore & Mealy Converter is a Python application built using the Tkinter library for creating a seamless graphical user interface. This application allows users to visualise and convert between Moore and Mealy finite state machines.
 
 ## Features:
 
@@ -17,17 +17,17 @@ The Moore & Mealy Converter is a Python application built using the Tkinter libr
 
 ### Moore to Mealy Conversion:
 
-1. Enter the number of states and transitions for the Moore machine.
+1. Enter the number of states and transitions for the Moore machine and click "Proceed".
 2. Input the outputs for each state and the transition details.
-3. Click "Proceed" to display the Mealy machine graphically.
-4. The generated Mealy machine can be further visualized or converted to Moore.
+3. Click "Display Moore" to visualise Moore machine.
+4. Click "Generate Mealy" to visualise the generated moore machine.
 
 ### Mealy to Moore Conversion:
 
-1. Enter the number of states and transitions for the Mealy machine.
+1. Enter the number of states and transitions for the Mealy machine and click "Proceed".
 2. Input the outputs for each state and the transition details.
-3. Click "Proceed" to display the Moore machine graphically.
-4. The generated Mealy machine can be further visualized or converted back to Moore.
+3. Click the "Display Mealy" button to visualise Mealy machine.
+4. Click the "Generate Mealy" button to visualise the generated Mealy machine.
 
 ### Graphical Visualization:
 
@@ -49,4 +49,5 @@ The Moore & Mealy Converter is a Python application built using the Tkinter libr
 
 For any inquiries or feedback, please contact alimurtazaathar@gmail.com
 
-#python #tkinter #networkx #matplotlib
+#python #tkinter #networkx #matplotlib #moore #mealy #mooretomealy #mealytomoore
+
